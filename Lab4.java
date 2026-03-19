@@ -1,10 +1,10 @@
 /**
  * KIT107 Lab 3 harness class
+ * <<Meharaj Hosaine Sami>>
  *
  * @author Julian Dermoudy
- * @version 11/03/2026
+ * @version 19/03/2026
  * 
- * FILE IS COMPLETE
  */
 public class Lab4 {
     public static void main(String[] args) {

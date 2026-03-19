@@ -1,10 +1,9 @@
  /**
  * Sticky Note Pad library class for KIT107 Lab 4.
  *
- * @author Julian Dermoudy and <<INSERT NAME HERE>>
- * @version <<INSERT DATE HERE>>
+ * @author Julian Dermoudy and <<Meharaj Hosaine Sami>>
+ * @version <<19/03/2026>>
  * 
- * FILE IS COMPLETE
  */
 
 public class StickyNotePad
